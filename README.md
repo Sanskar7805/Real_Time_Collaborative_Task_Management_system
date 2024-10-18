@@ -403,5 +403,5 @@ The demo version is available on Railway platform:
 
 :octocat: This is the fourth and **final** training project of the ["Python Developer"](https://ru.hexlet.io/programs/python) course on [Hexlet.io](https://hexlet.io)
 
-> GitHub [@ivnvxd](https://github.com/ivnvxd) &nbsp;&middot;&nbsp;
-> LinkedIn [@Andrey Ivanov](https://www.linkedin.com/in/abivanov/)
+> GitHub [@Sanskar7805](https://github.com/Sanskar7805)
+> LinkedIn [@sanskar soni](https://www.linkedin.com/in/sanskar-soni-394189229/)
